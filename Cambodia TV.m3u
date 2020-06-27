@@ -1,0 +1,14 @@
+#EXTINF:-1,Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8?group=backup
+#EXTINF:-1,Hang Heas HD TV
+http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1086522147_b550000_sleng.m3u8
+#EXTINF:-1,TV 5
+http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1593303825&mtvhash=SWep-4YOYWUv1va_PRSl-nbPidF816lW8es8KM3o2ck=
+#EXTINF:-1,Unknown_2
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1593304034&mtvhash=n7TgwMd02uIkgYdEBELA6E4Agme8P5uG9XoPoBu_ruc=
+#EXTINF:-1,Sea TV
+http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1593304143&mtvhash=xOg3zsy9hJ46LVLshcs9c2eRyV-38kEWGFhD0J0cL_U=
+#EXTINF:-1,WIKI TV
+http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8?mtvstarttime=0&mtvendtime=1593304289&mtvhash=rTKIipepoota5e_X_gWl0Pvoyqm4JsDRGRV0tRfOHAo=
+#EXTINF:-1,Bayon TV
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1593304412&mtvhash=8ONFxxuJ9VxlPHQd3kdbVS0OYrc15TwhwJfr_-yaIt0=
