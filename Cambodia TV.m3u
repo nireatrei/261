@@ -14,5 +14,3 @@ http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8?mtvstarttime=0&mtven
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1593304412&mtvhash=8ONFxxuJ9VxlPHQd3kdbVS0OYrc15TwhwJfr_-yaIt0=
 #EXTINF:-1,Unknown_4
 https://streaming.opennet.com.kh/vod/_definst_/smil:media/msd/2019/8/Godzilla.King.Of.The.Monsters.2019/HD.smil/playlist.m3u8?wowzatokenendtime=1593255093&wowzatokenhash=d5piysQF7V9enBT_97KAZ4SwtnxqkGEW5ZBy64S6rPA=&wowzatokenstarttime=1593241293
-#EXTINF:-1,The.King.Of.Staten.Island.2020.HDRip.XviD.AC3-EVO[TGx]
-http://pairing:7976F5BD93F4239C0681BE6850A1B3750BB916C3@127.0.0.1:43696/proxy?sid=1&file=1&token=7976F5BD93F4239C0681BE6850A1B3750BB916C3&pairing=7976F5BD93F4239C0681BE6850A1B3750BB916C3&service=STREAMING
