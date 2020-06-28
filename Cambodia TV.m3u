@@ -18,3 +18,5 @@ https://streaming.opennet.com.kh/vod/_definst_/smil:media/msd/2019/8/Godzilla.Ki
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, Movie to watching
 https://streaming.opennet.com.kh/vod/_definst_/smil:media/msd/2019/8/Breakthrough.2019/HD.smil/playlist.m3u8?wowzatokenendtime=1593349082&wowzatokenhash=8yzHSIdQFxvjMgY6zgL_1u6dbeRBanAtZUhmN0ZVe6U=&wowzatokenstarttime=1593335282
+#EXTINF:-1, Movie to watching
+http://192.168.1.167:57645/proxy/redirectorproxy/H4sIAAAAAAAAAA3HUQ7DIAgA0BsJokXpbZDi1qTrTOP2tcOveV9Pxzh207m_T_ieW9D7Hl7DH5_r-D3nHCtApBLwFleupYKawwW5FG7Jo3lUS5hNMpoQidSNGHuyhVLvBNpYjU0Ey9IURTQpckTr1aVw_wPCnJF5gwAAAA==.m3u8
