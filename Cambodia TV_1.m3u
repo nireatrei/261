@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,SEATV
 http://96.9.77.79:1935/live/SEATV/playlist.m3u8
+#EXTINF:-1,RHM_HDTV
+http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
