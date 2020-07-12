@@ -5,3 +5,5 @@ http://96.9.77.79:1935/live/SEATV/playlist.m3u8
 http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1,RM_HDTV
 http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+#EXTINF:-1,EATV
+http://203.176.130.123:8989/live/etv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1594643150&mtvhash=Va4I7_Im6ngDDbLpF7hLTyzsdizyV9BgUkAUgLS6tk8=
