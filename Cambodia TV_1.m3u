@@ -5,5 +5,9 @@ http://96.9.77.79:1935/live/SEATV/playlist.m3u8
 http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Khmer TV"tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/HM-HDTV.png",RM_HDTV
 http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Khmer TV",EATV
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://3.bp.blogspot.com/-FeYI3mB2l-g/V0Sc6DomTvI/AAAAAAAAAKE/wY_SSZ5ZhogT-5QrBQxYUw9baoa0XREkQCLcB/w115-h115-c/etv.jpg",EATV
 http://203.176.130.123:8989/live/etv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1594643150&mtvhash=Va4I7_Im6ngDDbLpF7hLTyzsdizyV9BgUkAUgLS6tk8=
+
+
+#EXTINF:-1 group-title="International Chanel"tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/abc/abc@2x.png",ABC Chanel
+https://content-auso1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/d.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.description_url=https%3A%2F%2Fabcnews.go.com&ad.ppid=73f8efd26f354108991be8b93fdcb705&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26noad%3Dt%26swid%3D73f8efd2-6f35-4108-991b-e8b93fdcb705%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive&pbs=53515e722fb742cb9935f28ca9d9e52c
