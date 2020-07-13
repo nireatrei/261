@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="Khmer TV"tvg-logo="http://www.seatv.com.kh/images/logo2.png",SEA TV HD
 http://96.9.77.79:1935/live/SEATV/playlist.m3u8
-#EXTINF:-1 group-title="Khmer TV",RHM_HDTV
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV.png",RHM_HDTV
 http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Khmer TV",RM_HDTV
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/HM-HDTV.png",RM_HDTV
 http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Khmer TV",EATV
 http://203.176.130.123:8989/live/etv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1594643150&mtvhash=Va4I7_Im6ngDDbLpF7hLTyzsdizyV9BgUkAUgLS6tk8=
