@@ -7,6 +7,8 @@ http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3
 http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Khmer TV"tvg-logo="https://3.bp.blogspot.com/-FeYI3mB2l-g/V0Sc6DomTvI/AAAAAAAAAKE/wY_SSZ5ZhogT-5QrBQxYUw9baoa0XREkQCLcB/w115-h115-c/etv.jpg",EATV
 http://203.176.130.123:8989/live/etv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1594643150&mtvhash=Va4I7_Im6ngDDbLpF7hLTyzsdizyV9BgUkAUgLS6tk8=
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="http://www.khmer.fyi/images/blank_square.png",TV5
+http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="International Chanel"tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/abc/abc@2x.png",ABC Chanel
