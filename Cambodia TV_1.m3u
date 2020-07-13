@@ -9,7 +9,18 @@ http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 http://203.176.130.123:8989/live/etv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1594643150&mtvhash=Va4I7_Im6ngDDbLpF7hLTyzsdizyV9BgUkAUgLS6tk8=
 #EXTINF:-1 group-title="Khmer TV"tvg-logo="https://yt3.ggpht.com/a/AATXAJxh2yJoUhqi_AzCnBezRiKvam592ozJX2DKCnMH=s900-c-k-c0xffffffff-no-rj-mo",TV5
 http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://raw.githubusercontent.com/nireatrei/TV-Logo/master/logo-514180-1.png",Bayon TV
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/bayon%20TV%20news.png",Bayon TV News
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/fresh%20news.png",Fresh News
+http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/PNN%20Logo.png",PNN TV
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/CTV%209.png",CTV9
+http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/TVK.npg.jpg",TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="International Chanel"tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/abc/abc@2x.png",ABC Chanel
 https://content-auso1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/d.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.description_url=https%3A%2F%2Fabcnews.go.com&ad.ppid=73f8efd26f354108991be8b93fdcb705&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26noad%3Dt%26swid%3D73f8efd2-6f35-4108-991b-e8b93fdcb705%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive&pbs=53515e722fb742cb9935f28ca9d9e52c
