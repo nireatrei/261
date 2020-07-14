@@ -1,4 +1,538 @@
 #EXTM3U
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="http://www.seatv.com.kh/images/logo2.png",SEA TV HD
+http://96.9.77.79:1935/live/SEATV/playlist.m3u8
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV.png",RHM_HDTV
+http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/HM-HDTV.png",RM_HDTV
+http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://3.bp.blogspot.com/-FeYI3mB2l-g/V0Sc6DomTvI/AAAAAAAAAKE/wY_SSZ5ZhogT-5QrBQxYUw9baoa0XREkQCLcB/w115-h115-c/etv.jpg",EATV
+http://203.176.130.123:8989/live/etv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1594643150&mtvhash=Va4I7_Im6ngDDbLpF7hLTyzsdizyV9BgUkAUgLS6tk8=
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://yt3.ggpht.com/a/AATXAJxh2yJoUhqi_AzCnBezRiKvam592ozJX2DKCnMH=s900-c-k-c0xffffffff-no-rj-mo",TV5
+http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://raw.githubusercontent.com/nireatrei/TV-Logo/master/logo-514180-1.png",Bayon TV
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/bayon%20TV%20news.png",Bayon TV News
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/fresh%20news.png",Fresh News
+http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/PNN%20Logo.png",PNN TV
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/CTV%209.png",CTV9
+http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/TVK.npg.jpg",TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: RSI LA 2 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57595
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: RSI LA 1 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57596
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: SRF INFO HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57597
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: SRF ZWEI HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57598
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: SRF 1 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57599
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: RTS UN HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57600
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: RTS DEUX HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57601
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: PLUS 8 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57602
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: 3+ HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57603
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: 4+ HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57604
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: 5+ HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57605
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: TV 24 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57606
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: TV 25 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57607
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: TELECLUB CINEMA HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57608
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: TELECLUB SPORT 1 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57614
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: TELECLUB SPORT 2 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57615
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: MY SPORTS HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57616
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: MY SPORTS 1 HD/SKY 1
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57617
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: MY SPORTS 2 HD/SKY 2
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57618
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: MY SPORTS 3 HD/SKY 3
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57619
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: MY SPORTS 4 HD/SKY 4
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57620
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: MY SPORTS 5 HD/SKY 5
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57621
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: MY SPORTS 6 HD/SKY 6
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57622
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: MY SPORTS 7 HD/SKY 7
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57623
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: MY SPORTS 8 HD/SKY 8
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57624
+#EXTINF:-1 group-title="EU SWITZERLAND",CH: MY SPORTS 9 HD/SKY 9
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57625
+#EXTINF:-1 group-title="EU UK",UKURD: ITV 1 HD*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80087
+#EXTINF:-1 group-title="EU UK",UKURD: 4 SEVEN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80088
+#EXTINF:-1 group-title="EU UK",UKURD: POP MAX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80089
+#EXTINF:-1 group-title="EU UK",UKURD: POP
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80090
+#EXTINF:-1 group-title="EU UK",UKURD: MTV ROCKS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80091
+#EXTINF:-1 group-title="EU UK",UKURD: MTV ONE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80092
+#EXTINF:-1 group-title="EU UK",UKURD: MTV MUSIC UK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80093
+#EXTINF:-1 group-title="EU UK",UKURD: MTV LIVE HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80094
+#EXTINF:-1 group-title="EU UK",UKURD: MTV HITS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80095
+#EXTINF:-1 group-title="EU UK",UKURD: MTV HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80096
+#EXTINF:-1 group-title="EU UK",UKURD: BBC1*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80097
+#EXTINF:-1 group-title="EU UK",UKURD: MTV CLASSIC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80098
+#EXTINF:-1 group-title="EU UK",UKURD: MTV BASE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80099
+#EXTINF:-1 group-title="EU UK",UKURD: NAT GEO HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80100
+#EXTINF:-1 group-title="EU UK",UKURD: NAT GEO WILKURD: FHD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80101
+#EXTINF:-1 group-title="EU UK",UKURD: HISTORY 2 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80102
+#EXTINF:-1 group-title="EU UK",UKURD: INVESTIGATION DISCOVERY (ID)
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80103
+#EXTINF:-1 group-title="EU UK",UKURD: DISCOVERY HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80104
+#EXTINF:-1 group-title="EU UK",UKURD: ANIMAL PLANET HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80105
+#EXTINF:-1 group-title="EU UK",UKURD: LIFETIME HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80106
+#EXTINF:-1 group-title="EU UK",UKURD: BBC2*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80107
+#EXTINF:-1 group-title="EU UK",UKURD: TINY POP
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80108
+#EXTINF:-1 group-title="EU UK",UKURD: BBC3*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80109
+#EXTINF:-1 group-title="EU UK",UKURD: CARTOON NETWORK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80110
+#EXTINF:-1 group-title="EU UK",UKURD: CARTOON NETWORKURD: HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80111
+#EXTINF:-1 group-title="EU UK",UKURD: DISNEY JUNIOR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80112
+#EXTINF:-1 group-title="EU UK",UKURD: DISNEY CHANNEL HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80113
+#EXTINF:-1 group-title="EU UK",UKURD: DISNEY CHANNEL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80114
+#EXTINF:-1 group-title="EU UK",UKURD: NICKELODEON EUROPE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80115
+#EXTINF:-1 group-title="EU UK",UKURD: NICKURD: TOONS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80116
+#EXTINF:-1 group-title="EU UK",UKURD: NICKURD: JUNIOR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80117
+#EXTINF:-1 group-title="EU UK",UKURD: NICKURD: JKURD: PEPPA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80118
+#EXTINF:-1 group-title="EU UK",UKURD: BBC4*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80119
+#EXTINF:-1 group-title="EU UK",UKURD: NICKURD: HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80120
+#EXTINF:-1 group-title="EU UK",UKURD: RTE JUNIOR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80121
+#EXTINF:-1 group-title="EU UK",UKURD: BOOMERANG
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80122
+#EXTINF:-1 group-title="EU UK",UKURD: BBC PARLIAMENT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80123
+#EXTINF:-1 group-title="EU UK",UKURD: BABY TV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80124
+#EXTINF:-1 group-title="EU UK",UKURD: SKY ATLANTIC HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80125
+#EXTINF:-1 group-title="EU UK",UKURD: CITV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80126
+#EXTINF:-1 group-title="EU UK",UKURD: SKY CINEMA ACTION FHD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80127
+#EXTINF:-1 group-title="EU UK",UKURD: SKY CINEMA THRILLEKURD: FHD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80128
+#EXTINF:-1 group-title="EU UK",UKURD: SKY CINEMA SKI-FI FHD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80129
+#EXTINF:-1 group-title="EU UK",UKURD: SKY CINEMA PREMIEKURD: FHD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80130
+#EXTINF:-1 group-title="EU UK",UKURD: SKY CINEMA HITS FHD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80131
+#EXTINF:-1 group-title="EU UK",UKURD: SKY CINEMA GREATS FHD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80132
+#EXTINF:-1 group-title="EU UK",UKURD: SKY CINEMA DRAMA & ROMANCE FHD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80134
+#EXTINF:-1 group-title="EU UK",UKURD: SKY CINEMA DISNEY FHD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80135
+#EXTINF:-1 group-title="EU UK",UKURD: SKY CINEMA COMEDY FHD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80136
+#EXTINF:-1 group-title="EU UK",UKURD: SKY ONE HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80137
+#EXTINF:-1 group-title="EU UK",UKURD: FILM 4 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80138
+#EXTINF:-1 group-title="EU UK",UKURD: HORROKURD: CHANNEL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80139
+#EXTINF:-1 group-title="EU UK",UKURD: FOX NEWS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80140
+#EXTINF:-1 group-title="EU UK",UKURD: UNIVERSAL HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80141
+#EXTINF:-1 group-title="EU UK",UKURD: AMC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80142
+#EXTINF:-1 group-title="EU UK",UKURD: FRANCE 24
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80143
+#EXTINF:-1 group-title="EU UK",UKURD: SYFY HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80144
+#EXTINF:-1 group-title="EU UK",UKURD: TCM HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80145
+#EXTINF:-1 group-title="EU UK",UKURD: TLC HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80146
+#EXTINF:-1 group-title="EU UK",UKURD: SONY CHRISTMAS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80147
+#EXTINF:-1 group-title="EU UK",UKURD: SONY CHANNEL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80148
+#EXTINF:-1 group-title="EU UK",UKURD: RT AMERICA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80149
+#EXTINF:-1 group-title="EU UK",UKURD: STV HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80150
+#EXTINF:-1 group-title="EU UK",UKURD: MORE 4 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80151
+#EXTINF:-1 group-title="EU UK",UKURD: EDEN HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80152
+#EXTINF:-1 group-title="EU UK",UKURD: E4 HD*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80153
+#EXTINF:-1 group-title="EU UK",UKURD: DAVE HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80154
+#EXTINF:-1 group-title="EU UK",UKURD: COMEDY CENTRAL EXTRA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80155
+#EXTINF:-1 group-title="EU UK",UKURD: COMEDY CENTRAL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80156
+#EXTINF:-1 group-title="EU UK",UKURD: COMEDY CENTRAL HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80157
+#EXTINF:-1 group-title="EU UK",UKURD: CBS REALITY 1
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80158
+#EXTINF:-1 group-title="EU UK",UKURD: CBS REALITY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80159
+#EXTINF:-1 group-title="EU UK",UKURD: CBS DRAMA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80160
+#EXTINF:-1 group-title="EU UK",UKURD: CBS ACTION
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80161
+#EXTINF:-1 group-title="EU UK",UKURD: BLAZE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80162
+#EXTINF:-1 group-title="EU UK",UKURD: ALIBI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80163
+#EXTINF:-1 group-title="EU UK",UKURD: ALIBI HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80164
+#EXTINF:-1 group-title="EU UK",UKURD: 5STAR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80165
+#EXTINF:-1 group-title="EU UK",UKURD: CHANNEL 5 FHD*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80166
+#EXTINF:-1 group-title="EU UK",UKURD: CHANNEL 4 FHD*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80167
+#EXTINF:-1 group-title="EU UK",UKURD: CNN HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80168
+#EXTINF:-1 group-title="EU UK",UKURD: RT DOCUMENTRY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80169
+#EXTINF:-1 group-title="EU UK",UKURD: RTE NEWS HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80170
+#EXTINF:-1 group-title="EU UK",UKURD: ITV BE HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80171
+#EXTINF:-1 group-title="EU UK",UKURD: ITV 4 HD*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80172
+#EXTINF:-1 group-title="EU UK",UKURD: ITV 3 HD*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80173
+#EXTINF:-1 group-title="EU UK",UKURD: ITV 2 HD*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80174
+#EXTINF:-1 group-title="EU UK",UKURD: RT NEWS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80175
+#EXTINF:-1 group-title="EU UK",UKURD: CBBC HD*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80176
+#EXTINF:-1 group-title="EU UK",UKURD: BBC NEWS HD*
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80177
+#EXTINF:-1 group-title="EU UK",UKURD: BBC 4 HKURD: / CBEEBIES HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80178
+#EXTINF:-1 group-title="EU UK",UKURD: BBC 1 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80179
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE WALES HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80180
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE SCOTTLANKURD: HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80181
+#EXTINF:-1 group-title="EU UK",UKURD: HISTORY HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80182
+#EXTINF:-1 group-title="EU UK",UKURD: RT UK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80183
+#EXTINF:-1 group-title="EU UK",UKURD: CNBC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80184
+#EXTINF:-1 group-title="EU UK",UKURD: EURO NEWS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80185
+#EXTINF:-1 group-title="EU UK",UKURD: AL JAZEERA EN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80186
+#EXTINF:-1 group-title="EU UK",UKURD: DISNEY XKURD: HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80187
+#EXTINF:-1 group-title="EU UK",UKURD: DISNEY JUNIOKURD: HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80188
+#EXTINF:-1 group-title="EU UK",UKURD: BLOOMBERG HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80189
+#EXTINF:-1 group-title="EU UK",UKURD: FOOKURD: NETWORK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80190
+#EXTINF:-1 group-title="EU UK",UKURD: RTE TWO HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80191
+#EXTINF:-1 group-title="EU UK",UKURD: RTE ONE HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80192
+#EXTINF:-1 group-title="EU UK",UKURD: BBC 3 HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80193
+#EXTINF:-1 group-title="EU UK",UKURD: BBC 2
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80194
+#EXTINF:-1 group-title="EU UK",UKURD: SKY NEWS HD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80195
+#EXTINF:-1 group-title="EU UK",UKURD: HOME
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80196
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE CAMBRIDGE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80197
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE CHANNEL ISLANDS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80198
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE EAST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80199
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE EAST MIDLANDS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80200
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE LONDON
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80201
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE NORTH EAST & CUMBRIA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80202
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE NORTH WEST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80203
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE NORTHEN ISLAND
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80204
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE OXFORD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80205
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE SCOTLAND
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80206
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE SOUTH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80207
+#EXTINF:-1 group-title="EU UK",UKURD: BBC One South East
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80208
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE SOUTH WEST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80209
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE WALES
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80210
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE WEST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80211
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE WEST MIDLANDS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80212
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE YORK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80213
+#EXTINF:-1 group-title="EU UK",UKURD: BBC ONE YORKSHIRE & LINCOLNSHIRE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80214
+#EXTINF:-1 group-title="EU UK",UKURD: BBC TWO ENGLAND
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80215
+#EXTINF:-1 group-title="EU UK",UKURD: BBC TWO NORTHEN IRELAND
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80216
+#EXTINF:-1 group-title="EU UK",UKURD: BBC TWO WALES
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80217
+#EXTINF:-1 group-title="EU UK",UKURD: CHANNEL 4 MIDLANDS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80218
+#EXTINF:-1 group-title="EU UK",UKURD: CHANNEL 4 NORTH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80219
+#EXTINF:-1 group-title="EU UK",UKURD: CHANNEL 4 NORTHEN IRELAND
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80220
+#EXTINF:-1 group-title="EU UK",UKURD: CHANNEL 4 SCOTLAND
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80221
+#EXTINF:-1 group-title="EU UK",UKURD: CHANNEL 4 SOUTH ANKURD: EAST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80222
+#EXTINF:-1 group-title="EU UK",UKURD: ITV TYNE TEES
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80223
+#EXTINF:-1 group-title="EU UK",UKURD: ITV ANGLIA EAST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80224
+#EXTINF:-1 group-title="EU UK",UKURD: ITV CENTRAL EAST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80225
+#EXTINF:-1 group-title="EU UK",UKURD: ITV CENTRAL WEST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80226
+#EXTINF:-1 group-title="EU UK",UKURD: ITV GRANADA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80227
+#EXTINF:-1 group-title="EU UK",UKURD: ITV MERIDIAN EAST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80228
+#EXTINF:-1 group-title="EU UK",UKURD: ITV MERIDIAN TV NORTH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80229
+#EXTINF:-1 group-title="EU UK",UKURD: ITV MERIDIAN TV SOUTH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80230
+#EXTINF:-1 group-title="EU UK",UKURD: ITV TYNE TEES TV NORTH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80231
+#EXTINF:-1 group-title="EU UK",UKURD: ITV WESTCOUNTRY SOUTH WEST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80232
+#EXTINF:-1 group-title="EU UK",UKURD: ITV WESTCOUNTRY WEST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80233
+#EXTINF:-1 group-title="EU UK",UKURD: ITV ANGLIA WEST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80234
+#EXTINF:-1 group-title="EU UK",UKURD: ITV YORKSHIRE TV EAST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80235
+#EXTINF:-1 group-title="EU UK",UKURD: ITV YORKSHIRE WEST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80236
+#EXTINF:-1 group-title="EU UK",UKURD: ITV BORDER
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80237
+#EXTINF:-1 group-title="EU UK",UKURD: ITV WALES
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80238
+#EXTINF:-1 ,#
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80239
+#EXTINF:-1 group-title="EU UK",UKURD: STV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80240
+#EXTINF:-1 group-title="EU UK",UKURD: STV CENTRAL WEST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80241
+#EXTINF:-1 group-title="EU UK",UKURD: STV NORTH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80242
+#EXTINF:-1 group-title="EU UK",UKURD: BORDEKURD: SCOTLANKURD: TV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80243
+#EXTINF:-1 group-title="EU UK",UKURD: CBEEBIES
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80245
+#EXTINF:-1 group-title="EU UK",UKURD: CARTOONITO (NOT 24)
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80246
+#EXTINF:-1 group-title="EU UK",UKURD: TINY POP+1
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80247
+#EXTINF:-1 group-title="EU UK",UKURD: FOX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80248
+#EXTINF:-1 group-title="EU UK",UKURD: GOLD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80249
+#EXTINF:-1 group-title="EU UK",UKURD: E! ENTERTAINMENT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80250
+#EXTINF:-1 group-title="EU UK",UKURD: QUEST
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80251
+#EXTINF:-1 group-title="EU UK",UKURD: UTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80252
+#EXTINF:-1 group-title="EU UK",UKURD: WATCH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80253
+#EXTINF:-1 group-title="EU UK",UKURD: SKY ARTS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80254
+#EXTINF:-1 group-title="EU UK",UKURD: SKY WITNESS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80255
+#EXTINF:-1 group-title="EU UK",UKURD: SKY TWO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80256
+#EXTINF:-1 group-title="EU UK",UKURD: 4 SEVEN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80257
+#EXTINF:-1 group-title="EU UK",UKURD: 5 SELECT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80258
+#EXTINF:-1 group-title="EU UK",UKURD: 5 USA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80260
+#EXTINF:-1 group-title="EU UK",UKURD: ANKURD: FLIX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80261
+#EXTINF:-1 group-title="EU UK",UKURD: BET
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80262
+#EXTINF:-1 group-title="EU UK",UKURD: STARZ TV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80263
+#EXTINF:-1 group-title="EU UK",UKURD: CHALLENGE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80264
+#EXTINF:-1 group-title="EU UK",UKURD: DAVE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80265
+#EXTINF:-1 group-title="EU UK",UKURD: DMAX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80266
+#EXTINF:-1 group-title="EU UK",UKURD: DRAMA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80267
+#EXTINF:-1 group-title="EU UK",UKURD: SONY MOVIES ACTION
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80268
+#EXTINF:-1 group-title="EU UK",UKURD: PBS AMERICA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80269
+#EXTINF:-1 group-title="EU UK",UKURD: PICKURD: TV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80270
+#EXTINF:-1 group-title="EU UK",UKURD: QUEST RED
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80271
+#EXTINF:-1 group-title="EU UK",UKURD: REALLY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80273
+#EXTINF:-1 group-title="EU UK",UKURD: SONY MOVIES
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80274
+#EXTINF:-1 group-title="EU UK",UKURD: SONY CRIME
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80275
+#EXTINF:-1 group-title="EU UK",UKURD: SONY CRIME 2
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80276
+#EXTINF:-1 group-title="EU UK",UKURD: UNIVERSAL CHANNEL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80277
+#EXTINF:-1 group-title="EU UK",UKURD: UTV ONE +1
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80278
+#EXTINF:-1 group-title="EU UK",UKURD: UTV ULSTER
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80279
+#EXTINF:-1 group-title="EU UK",UKURD: YANGA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80280
+#EXTINF:-1 group-title="EU UK",UKURD: YESTERDAY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80281
+#EXTINF:-1 group-title="EU UK",UKURD: SKY CINEMA FAMILY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80282
+#EXTINF:-1 group-title="EU UK",UKURD: SKY CINEMA SKY FI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80283
+#EXTINF:-1 group-title="EU UK",UKURD: SKY CINEMA HEROS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80284
+#EXTINF:-1 group-title="EU UK",UKURD: BOX HITS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80285
+#EXTINF:-1 group-title="EU UK",UKURD: CHART SHOW TV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80287
+#EXTINF:-1 group-title="EU UK",UKURD: CLUBLAND
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80288
+#EXTINF:-1 group-title="EU UK",UKURD: KERRANG
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80289
+#EXTINF:-1 group-title="EU UK",UKURD: KISS TV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80290
+#EXTINF:-1 group-title="EU UK",UKURD: MAGIC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80291
+#EXTINF:-1 group-title="EU UK",UKURD: MTV OMG
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80292
+#EXTINF:-1 group-title="EU UK",UKURD: NOW 80s
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80293
+#EXTINF:-1 group-title="EU UK",UKURD: NOW MUSIC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80294
+#EXTINF:-1 group-title="EU UK",UKURD: THE VAULT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80295
+#EXTINF:-1 group-title="EU UK",UKURD: VH1
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80296
+#EXTINF:-1 group-title="EU UK",UKURD: THE BOX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80298
+#EXTINF:-1 group-title="EU UK",UKURD: 4 MUSIC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80299
+#EXTINF:-1 group-title="EU UK",UKURD: CRIME&INVESTIGATION
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80300
+#EXTINF:-1 group-title="EU UK",UKURD: PARAMOUNT NETWORK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80302
+#EXTINF:-1 group-title="EU UK",UKURD: SMITHSONIAN CHANNEL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80303
+#EXTINF:-1 group-title="EU UK",UKURD: DISCOVERY HISTORY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80304
+#EXTINF:-1 group-title="EU UK",UKURD: DISCOVERY HOME&HEALTH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80305
+#EXTINF:-1 group-title="EU UK",UKURD: DISCOVERY SCIENCE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80306
+#EXTINF:-1 group-title="EU UK",UKURD: DISCOVERY SHED
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80307
+#EXTINF:-1 group-title="EU UK",UKURD: DISCOVERY TURBO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80308
+#EXTINF:-1 group-title="EU UK",UKURD: TRAVEL CHANNEL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80309
+#EXTINF:-1 group-title="EU UK",UKURD: FORCES TV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80310
+#EXTINF:-1 group-title="EU UK",UKURD: HORSE ANKURD: COUNTRY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80311
+#EXTINF:-1 group-title="EU UK",UKURD: KEEP IT COUNTRY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80312
+#EXTINF:-1 group-title="EU UK",UKURD: MY TV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80313
+#EXTINF:-1 group-title="EU UK",UKURD: SHOWCASE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80314
+#EXTINF:-1 group-title="EU UK",UKURD: VIRGIN MEDIA ONE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80315
+#EXTINF:-1 group-title="EU UK",UKURD: VIRGIN MEDIA THREE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80316
+#EXTINF:-1 group-title="EU UK",UKURD: TG4
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80317
+#EXTINF:-1 group-title="EU UK",UKURD: S4C
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80318
+#EXTINF:-1 group-title="EU UK",IN|UKURD: VENUS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/80320
+#EXTINF:-1 group-title="US CANADA",===== CANADA =====
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/84468
+#EXTINF:-1 group-title="US CANADA",CA: CORONA VIRUS INFO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/84469
+
+#EXTM3U
 #EXTINF:-1 group-title="USA SPORTS",===== USA Sports =====
 http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/84207
 #EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/fantasysportsnetwork.png",Fantasy Sports Network
@@ -33,6 +567,8 @@ http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/84290
 http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/84298
 #EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",===== USA NBA =====
 http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/84302
+#EXTINF:-1 group-title="USA News",===== USA News =====
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83130
 #EXTINF:-1 group-title="USA News" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/bloomberg-logo-white.png",Bloomberg
 http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83134
 #EXTINF:-1 group-title="USA News" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CNBC_logo.svg.png",CNBC
@@ -43,6 +579,1172 @@ http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83144
 http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83150
 #EXTINF:-1 group-title="USA News" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NEWS12NETWORK.png",NEWS 12 NETWORK (New Jersey)
 http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83151
+#EXTINF:-1 group-title="USA Regionals",===== USA Documentaries =====
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83156
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KTUU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83157
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KTVF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83158
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KATH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83159
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",CBS WIAT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83160
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Wbrc-logo",FOX WBRC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83161
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC WVTM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83162
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83163
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC5KSDK.us.png",NBC WRGX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83164
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWZDX",FOX WZDX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83165
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWAFF.png",NBC WAFF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83166
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWKRG.png",CBS WKRG
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83167
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Fox_logo.png",FOX WALA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83168
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WPMI_NBC_15.png",NBC WPMI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83169
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WSFA_12_logo.png",NBC WSFA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83170
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWAKA.png",CBS WAKA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83171
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFTA.png",FOX KFTA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83172
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKNWA.png",NBC KNWA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83173
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KAIT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83174
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKTHV.png",CBS KTHV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83175
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKLRT.png",FOX KLRT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83176
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC KARK.png",NBC KARK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83177
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKTVE.png",NBC KTVE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83178
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UNIMAS KFPH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83179
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UNIVISION KTVW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83180
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UNIVISION KUVE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83181
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KPNX.png",KPNX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83182
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKPHO.us.png",CBS KPHO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83183
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo Int.png",Telemundo KTAZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83184
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKOLD.png",CBS KOLD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83185
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKMSB.png",FOX KMSB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83186
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKVOA.png",NBC KVOA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83187
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KHRR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83188
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UNIMAS KFTU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83189
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KYMA.us.png",NBC KYMA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83190
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KESE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83191
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBS_KBAK.png",CBS KBAK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83192
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKGET.png",NBC KGET
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83193
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKNVN.png",NBC KNVN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83194
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KNVN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83195
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/TelemundoKVEA.png",Telemundo KVEA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83196
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KIEM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83197
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKGPE.png",CBS KGPE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83198
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKSEE.png",NBC KSEE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83199
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.us.png",UNIVISION KFTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83200
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KCAL.us.png",CBS KCAL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83201
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKCBS.us.png",CBS KCBS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83202
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKTTV.png",FOX KTTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83203
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKNBC.png",NBC KNBC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83204
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.png",UNIVISION KMEX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83205
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KNSO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83206
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.png",UNIVISION KUVS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83207
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKION.png",CBS KION
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83208
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/TelemundoKMUV.png",Telemundo KMUV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83209
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKTVU.us.png",FOX KTVU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83210
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UNIMAS KFTR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83211
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UniMas KTFF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83212
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo Int.png",Telemundo KUAN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83213
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CWKMAX.us.png",CW KMAX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83214
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKTXL.us.png",FOX KTXL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83215
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKCRA.png",NBC KCRA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83216
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KCSO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83217
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKCBA.png",FOX KCBA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83218
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKSBW.png",NBC KSBW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83219
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKFMB.us.png",CBS KFMB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83220
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",FOX KSWB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83221
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKNSD.us.png",NBC KNSD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83222
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KPIX.us.png",CBS KPIX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83223
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KBCW.us.png",CW KBCW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83224
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.png",UNIVISION KDTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83225
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Fox_logo.png",FOX KICU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83226
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KNTV.us.png",NBC KNTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83227
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/telemundo.png",Telemundo KSTS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83228
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKKFX.png",FOX KKFX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83229
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKSBY.png",NBC KSBY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83230
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/telemundo.png",Telemundo KTAS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83231
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKCOY.png",CBS KCOY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83232
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKOVR.png",CBS KOVR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83233
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UNIMAS KTFK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83234
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UNIMAS KFSF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83235
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKMIR.png",NBC KMIR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83236
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKKTV.png",CBS KKTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83237
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKXRM.png",FOX KXRM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83238
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo Int.png",Telemundo KRDO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83239
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKCNC.png",CBS KCNC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83240
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKDVR.png",FOX KDVR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83241
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKUSA.png",NBC KUSA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83242
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KDEN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83243
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.png",Univision KCEC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83244
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKKCO.png",NBC KKCO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83245
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKOAA.png",NBC KOAA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83246
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWFSB.us.png",CBS WFSB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83247
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWTIC.png",FOX WTIC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83248
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo Int.png",Telemundo WRDM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83249
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWVIT.us.png",NBC WVIT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83250
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWFTX.png",FOX WFTX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83251
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXNetPanama.png",FOX Net Panama
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83252
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWESH.png",NBC WESH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83253
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/telemundo.png",Telemundo WSCV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83254
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWINKNews.us.png",CBS WINK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83255
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWBBH.png",NBC WBBH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83256
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",NBC WNBW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83257
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UniMas WAMI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83258
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WJAX.us.png",CBS WJAX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83259
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWFOX.png",FOX WFOX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83260
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",NBC WTLV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83261
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWFOR.us.png",CBS WFOR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83262
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWSVN.png",FOX WSVN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83263
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWTVJ.png",NBC WTVJ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83264
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/TVWBFS.png",TV WBFS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83265
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision23WLTV.us.png",UNIVISION WLTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83266
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo WWDT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83267
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWOGX.png",FOX WOGX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83268
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWKMG.us.png",CBS WKMG
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83269
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWOFL.png",FOX WOFL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83270
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/telemundo.png",Telemundo WTMO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83271
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.png",Univision WVEN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83272
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWJHG.png",NBC WJHG
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83273
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWTSP.us.png",CBS WTSP
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83274
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WTOG.us.png",CW WTOG
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83275
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWTWC.png",NBC WTWC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83276
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWTVT.png",FOX WTVT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83277
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWFLA.png",NBC WFLA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83278
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/telemundo.png",Telemundo WRMD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83279
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWPEC.png",CBS WPEC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83280
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWFLX.png",FOX WFLX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83281
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWPTV.png",NBC WPTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83282
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWALB.png",NBC WALB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83283
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.png",UNIVISION WUVG
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83284
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWGCL.png",CBS WGCL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83285
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WUPA.us.png",CW WUPA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83286
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWAGA.us",FOX WAGA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83287
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC WXIA.png",NBC WXIA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83288
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWRDW.png",CBS WRDW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83289
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWFXG.png",FOX WFXG
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83290
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC WAGT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83291
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWXTX.png",FOX WXTX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83292
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC WLTZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83293
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWMAZ.us.png",CBS WMAZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83294
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWMGT.png",NBC WMGT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83295
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/telemundo.png",Telemundo WKTB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83296
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/cbs-1.png",CBS WTOC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83297
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWSAV.png",NBC WSAV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83298
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWCTV.png",CBS WCTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83299
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKGMB.png",CBS KGMB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83300
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKHON.us.png",FOX KHON
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83301
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKHNL.us.png",NBC KHNL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83302
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKHQ.png",NBC KHQ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83303
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKGAN.png",CBS KGAN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83304
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWHBF.png",CBS WHBF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83305
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKLJB.png",FOX KLJB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83306
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",NBC KWQC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83307
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83308
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKCCI.png",CBS KCCI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83309
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXNet.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83310
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KYOU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83311
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKTIV.png",NBC KTIV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83312
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/telemundo.png",Telemundo KBWF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83313
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKTTW.png",FOX KTTW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83314
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKWWL.png",NBC KWWL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83315
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKBOI.png",CBS KBOI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83316
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",NBC KTVB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83317
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKNIN.png",FOX KNIN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83318
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/telemundo.png",Telemundo KIFI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83319
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KPVI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83320
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Fox_logo.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83321
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KTFT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83322
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UNIMAS WXFT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83323
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWYZZ.png",FOX WYZZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83324
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WCIA.png",WCIA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83325
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWBBM.png",CBS WBBM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83326
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWFLD.png",FOX WFLD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83327
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC WMAQ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83328
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/TelemundoWSNS.png",Telemundo WSNS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83329
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC WAND
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83330
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.png",UNIVISION WGBO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83331
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWMBD.png",CBS WMBD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83332
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC WEEK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83333
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWGEM.png",NBC WGEM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83334
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWREX.png",NBC WREX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83335
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWEVV.png",CBS WEVV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83336
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWEVV.png",FOX WEVV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83337
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWFIE.png",NBC WFIE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83338
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWANE.png",CBS WANE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83339
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWFFT.png",FOX WFFT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83340
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWPTA.png",NBC WPTA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83341
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",31 WPWR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83342
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWXIN.png",FOX WXIN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83343
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWTHR.png",NBC WTHR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83344
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWPBI.png",NBC WPBI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83345
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC WSPB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83346
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWSBT.png",CBS WSBT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83347
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWNDU.png",NBC WNDU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83348
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWTWO.png",NBC WTWO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83349
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKWCH.png",CBS KWCH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83350
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKSNT.png",NBC KSNT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83351
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKSNW.png",NBC KSNW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83352
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Fox_logo.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83353
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWNKY.png",NBC WNKY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83354
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWKYT.us.png",CBS WKYT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83355
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWLEX.png",NBC WLEX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83356
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWLKY.png",CBS WLKY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83357
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWDRB.png",FOX WDRB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83358
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC WAVE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83359
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWXIX.png",FOX WXIX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83360
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWPSD.png",NBC WPSD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83361
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKALB.png",NBC KALB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83362
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWAFB.us.png",CBS WAFB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83363
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWGMB.png",FOX WGMB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83364
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WVLA.us.png",NBC WVLA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83365
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FoxNews.us.png",FOX Net Lake
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83366
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",KGLA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83367
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKLFY.png",CBS KLFY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83368
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKADN.png",FOX KADN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83369
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KLAF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83370
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KPLC.us.png",NBC KPLC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83371
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWWL.png",CBS WWL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83372
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDSU.png",NBC WDSU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83373
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WVUE.png",WVUE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83374
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKSLA.png",CBS KSLA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83375
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",FOX KMSS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83376
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKSL.png",NBC KSL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83377
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWBZ.png",CBS WBZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83378
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWFXT.png",FOX WFXT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83379
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC WBTS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83380
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",TV WSBK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83381
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.png",Univision WUNI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83382
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWSHM.png",CBS WSHM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83383
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWGGB.png",FOX WGGB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83384
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWWLP.png",NBC WWLP
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83385
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo WDMR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83386
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWJZ.us.png",CBS WJZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83387
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWBAL.us.png",NBC WBAL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83388
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83389
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC5KSDK.us.png",NBC WRDE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83390
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC5KSDK.us.png",NBC WLBZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83391
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWGME.png",CBS WGME
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83392
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWCSH.png",NBC WCSH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83393
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83394
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83395
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWNEM.png",CBS WNEM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83396
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/cbs-1.png",CBS WWTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83397
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWHP.png",CBS WHP
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83398
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWWJ.png",CBS WWJ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83399
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",CW WKBD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83400
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWJBK.png",FOX WJBK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83401
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDIV.us.png",NBC WDIV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83402
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWXMI.png",FOX WXMI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83403
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWOOD.png",NBC WOOD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83404
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WWMT3.us.png",CBS WWMT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83405
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWLNS.png",CBS WLNS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83406
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWSYM.png",FOX WSYM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83407
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83408
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWLUC.png",NBC WLUC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83409
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWILX.png",NBC WILX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83410
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWEYI.png",NBC WEYI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83411
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWPBN.png",NBC WPBN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83412
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWCCO.us.png",CBS WCCO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83413
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKMSP.us.png",FOX KMSP
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83414
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKARE.png",NBC KARE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83415
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KTTC.png",KTTC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83416
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKFVS.png",CBS KFVS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83417
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KOMU.us.png",NBC KOMU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83418
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKCTV.png",CBS KCTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83419
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWDAF.png",FOX WDAF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83420
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKSHB.png",NBC KSHB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83421
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KGKC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83422
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKRBK.png",FOX KRBK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83423
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKOLR.png",CBS KOLR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83424
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKYTV.png",NBC KYTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83425
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDIV.us.png",NBC KNPG
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83426
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKMOV.us.png",CBS KMOV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83427
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKTVI.png",FOX KTVI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83428
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKSDK.png",NBC KSDK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83429
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWCBI.png",CBS WCBI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83430
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWTVA.png",NBC WTVA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83431
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWNBD.png",NBC WNBD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83432
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WXXVDT2.us.png",NBC WXXV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83433
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWJTV.png",CBS WJTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83434
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWDBD.png",FOX WDBD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83435
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WLBT.us.png",NBC WLBT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83436
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDAM.png",NBC WDAM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83437
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWGBC.png",NBC WGBC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83438
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKULR.png",NBC KULR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83439
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDIV.us.png",NBC KTVM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83440
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWBAL.us.png",NBC KTGF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83441
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWBAL.us.png",NBC KTGF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83442
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKTVH.png",NBC KTVH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83443
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKECI.png",NBC KECI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83444
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWJZY.png",FOX WJZY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83445
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWBTV.png",CBS WBTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83446
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWCNC.png",NBC WCNC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83447
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWNCN.png",CBS WNCN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83448
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWFMY.png",CBS WFMY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83449
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWNCT.png",CBS WNCT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83450
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWGHP.png",FOX WGHP
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83451
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWRAZ.png",FOX WRAZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83452
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWRAL.png",NBC WRAL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83453
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWITN.png",NBC WITN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83454
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWWAY.png",CBS WWAY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83455
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83456
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDIV.us.png",NBC WECT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83457
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWXII.png",NBC WXII
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83458
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KFYR.png",KFYR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83459
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX KVRR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83460
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKVLY.png",NBC KVLY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83461
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKOLN.png",CBS KOLN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83462
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KFDY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83463
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDIV.us.png",NBC KNOP
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83464
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKMTV.png",CBS KMTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83465
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWOWT.png",NBC WOWT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83466
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KOHA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83467
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKSNB.png",NBC KSNB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83468
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo WNEU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83469
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo WNJU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83470
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo WWSI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83471
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UniMas WFUT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83472
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.us.png",Univision WXTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83473
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WUVP.png",WUVP
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83474
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKRQE.png",CBS KRQE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83475
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.us.png",Univision KLUZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83476
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKRQE.png",FOX KRQE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83477
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKOB.png",NBC KOB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83478
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KTDO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83479
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KASA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83480
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKVVU.us.png",FOX KVVU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83481
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKLAS.us.png",CBS KLAS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83482
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKSNV.us.png",NBC KSNV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83483
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KBLR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83484
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKTVN.png",CBS KTVN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83485
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKRNV.png",NBC KRNV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83486
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWXXA.png",FOX WXXA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83487
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWNYT.png",NBC WNYT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83488
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83489
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWBGH.png",NBC WBGH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83490
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWIVB.png",CBS WIVB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83491
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWGRZ.png",NBC WGRZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83492
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWETM.png",NBC WETM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83493
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",CBS WCBS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83494
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWNYW.us.png",FOX WNYW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83495
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWNBC.png",NBC WNBC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83496
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.us.png",UNIVISION
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83497
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWPTZ.us.png",NBC WPTZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83498
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WLNY.png",WLNY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83499
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWROC.png",CBS WROC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83500
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWHEC.png",NBC WHEC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83501
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWRGB.png",CBS WRGB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83502
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/cbs-1.png",CBS WTVH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83503
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWSYT.png",FOX WSYT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83504
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWSTM.png",NBC WSTM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83505
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWKTV.png",NBC WKTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83506
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDIV.us.png",NBC WVNC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83507
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWKRC.us.png",CBS WKRC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83508
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWLWT.us.png",NBC WLWT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83509
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWJW.png",FOX WJW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83510
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWKYC.us.png",NBC WKYC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83511
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.us.png",UNIVISION WQHS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83512
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWBNS.png",CBS WBNS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83513
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWCMH.png",NBC WCMH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83514
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/cbs-1.png",CBS WHIO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83515
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDTN.png",NBC WDTN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83516
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC WLIO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83517
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWOIO.png",CBS WOIO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83518
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDIV.us.png",NBC WTOV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83519
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWTOL.png",CBS WTOL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83520
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWUPW.png",FOX WUPW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83521
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWNWO.png",NBC WNWO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83522
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWKBN.png",CBS WKBN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83523
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWYFX.png",FOX WYFX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83524
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWFMJ.png",NBC WFMJ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83525
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWHIZ.png",NBC WHIZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83526
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKTEN.png",NBC KTEN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83527
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKWTV.png",CBS KWTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83528
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDIV.us.png",NBC KFOR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83529
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KTUZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83530
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKOTV.us.png",CBS KOTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83531
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKJRH.us.png",NBC KJRH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83532
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KUTU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83533
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KOKI.png",KOKI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83534
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKTVZ.png",NBC KTVZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83535
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KQRE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83536
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKVAL.png",CBS KVAL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83537
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83538
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",NBC KOBI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83539
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KFBI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83540
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KFFX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83541
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKOIN.png",CBS KOIN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83542
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKPTV.us.png",FOX KPTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83543
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDIV.us.png",NBC KMTR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83544
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKLSR.png",FOX KLSR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83545
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBS WTAJ.png",CBS WTAJ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83546
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CWWPCW.png",CW WPCW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83547
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWWCP.png",FOX WWCP
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83548
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWJAC",NBC WJAC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83549
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWDIV.us.png",NBC KSNF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83550
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WGAL.us.png",NBC WGAL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83551
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKYW.us.png",CBS KYW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83552
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CWWPSG.png",CW WPSG
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83553
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWTXF.us.png",FOX WTXF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83554
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWCAU.png",NBC WCAU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83555
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UNIMAS WFPA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83556
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKDKA.png",CBS KDKA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83557
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",NBC WPXI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83558
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/cbs-1.png",CBS WYOU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83559
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWBRE.png",NBC WBRE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83560
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WPMT.us.png",FOX WPMT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83561
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",WBS WICU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83562
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWPRI.png",CBS WPRI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83563
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWNAC.png",FOX WNAC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83564
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo WRIW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83565
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WJAR.png",WJAR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83566
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWYCN.png",NBC WYCN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83567
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WCSC.us.png",CBS WCSC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83568
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WTAT.us.png",FOX WTAT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83569
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WCBD.us.png",NBC WCBD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83570
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWLTX.png",CBS WLTX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83571
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC5KSDK.us.png",NBC WIS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83572
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWBTW.png",CBS WBTW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83573
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWHNS.png",FOX WHNS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83574
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWYFF.png",NBC WYFF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83575
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WFXB.us.png",FOX WFXB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83576
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WMBF.us.png",NBC WMBF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83577
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWSPA.png",CBS WSPA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83578
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net Rapid
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83579
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKNBN.png",NBC KNBN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83580
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/cbs-1.png",CBS KELO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83581
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKDLT.png",NBC KDLT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83582
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWDEF.png",CBS WDEF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83583
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWRCB.png",NBC WRCB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83584
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWNBJ.png",NBC WNBJ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83585
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWVLT.png",CBS WVLT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83586
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",FOX WTNZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83587
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWBIR.png",NBC WBIR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83588
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWHBQ.us.png",FOX WHBQ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83589
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWMC.png",NBC WMC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83590
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWTVF.us.png",CBS WTVF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83591
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWSMV.png",NBC WSMV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83592
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWJHL.png",CBS WJHL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83593
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWCYB.png",NBC WCYB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83594
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83595
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KRBC.png",KRBC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83596
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UniMas KFTH
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83597
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKAMR.png",NBC KAMR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83598
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKEYE.png",CBS KEYE
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83599
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KTBC.us.png",FOX KTBC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83600
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKXAN.png",NBC KXAN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83601
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UniMas KTFO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83602
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UNIMAS KNIC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83603
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKVEO.png",NBC KVEO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83604
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKAGS.png",NBC KAGS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83605
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKZTV.png",CBS KZTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83606
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKRIS.png",NBC KRIS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83607
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo Int.png",Telemundo KAJA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83608
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKDFW.us.png",FOX KDFW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83609
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/TelemundoKXTX.png",Telemundo KXTX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83610
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKDBC.png",CBS KDBC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83611
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKTSM.png",NBC KTSM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83612
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKTVT.us.png",CBS KTVT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83613
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKTXA.png",CBS KTXA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83614
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKXAS.us.png",NBC KXAS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83615
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UNIVISIONKUVN.png",UNIVISION KUVN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83616
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KTMD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83617
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/cbs-1.png",CBS KGBT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83618
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX KFXV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83619
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKHOU.us.png",CBS KHOU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83620
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKRIV.us.png",FOX KRIV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83621
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKPRC.png",NBC KPRC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83622
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/UniMas.us.png",UniMas KSTR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83623
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKETK.png",NBC KETK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83624
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.us.png",UNIVISION KAKW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83625
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKGNS.png",NBC KGNS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83626
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFXK.png",FOX KFXK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83627
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83628
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KCBD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83629
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/telemundo.png",Telemundo KXTQ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83630
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKYTX.png",CBS KYTX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83631
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKWES.png",NBC KWES
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83632
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo Int.png",Telemundo KTLM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83633
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.png",UNIVISION KXLN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83634
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83635
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKSAN.png",NBC KSAN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83636
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKENS.png",CBS KENS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83637
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWOAI.png",NBC WOAI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83638
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo51WSCV.us.png",Telemundo KVDA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83639
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Univision.png",UNIVISION KWEX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83640
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83641
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KCEN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83642
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKTAL.png",NBC KTAL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83643
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",NBC KMOL
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83644
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKWTX.png",CBS KWTX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83645
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKWTX.png",FOX KWKT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83646
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKBMT.png",NBC KBMT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83647
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KUTV.us.png",CBS KUTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83648
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KSTU.us.png",FOX KSTU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83649
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/telemundo.png",Telemundo KTMW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83650
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83651
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWVIR.png",NBC WVIR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83652
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83653
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWAVY.png",NBC WAVY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83654
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWWBT.png",NBC WWBT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83655
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Telemundo Int.png",Telemundo WZTD
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83656
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWDBJ.png",CBS WDBJ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83657
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWFXR.png",FOX WFXR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83658
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWSLS.png",NBC WSLS
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83659
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWVBT.png",FOX WVBT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83660
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWCAX.png",CBS WCAX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83661
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWFFF.png",FOX WFFF
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83662
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWUSA.png",CBS WUSA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83663
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWTTG.png",FOX WTTG
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83664
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/telemundo.png",Telemundo WZDC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83665
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKIRO.png",CBS KIRO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83666
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKING.png",NBC KING
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83667
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKREM.png",CBS KREM
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83668
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KAYU.png",KAYU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83669
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/cw.png",CW KSTW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83670
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKCPQ.us.png",FOX KCPQ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83671
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWRC.us.png",NBC WRC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83672
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSKIMA.png",CBS KIMA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83673
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKCYU.png",FOX KCYU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83674
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKNDO.png",NBC KNDO
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83675
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWFRV.us.png",CBS WFRV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83676
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWGBA.png",NBC WGBA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83677
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWKBT.us.png",CBS WKBT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83678
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWLAX.png",FOX WLAX
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83679
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC WEAU
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83680
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/cbs-1.png",CBS WISC
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83681
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC WMTV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83682
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/CBSWDJT.png",CBS WDJT
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83683
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXWITI.us.png",FOX WITI
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83684
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWTMJ.us.png",NBC WTMJ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83685
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCKBJR.png",NBC KBJR
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83686
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83687
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWJFW.us.png",NBC WJFW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83688
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWVVA.png",NBC WVVA
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83689
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83690
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWBOY.png",NBC WBOY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83691
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/WOWK.us.png",CBS WOWK
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83692
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWSAZ.png",NBC WSAZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83693
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXKFQX.us.png",FOX Net
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83694
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWTAP.png",NBC WTAP
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83695
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KCWY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83696
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBC_logo.png",NBC KCHY
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83697
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/KGW.us.png",NBC KGW
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83698
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/cbs-1.png",CBS KXJB
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83699
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/NBCWVGN.png",NBC WVGN
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83700
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCPHOENIXAZKNXV.png",ABC PHOENIX AZ KNXV
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83701
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/FOXPHOENIXAZKSAZ.png",FOX PHOENIX AZ KSAZ
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83702
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCLosAngeles.png",ABC Los Angeles
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83703
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCKGO.us.png",ABC San Francisco
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83704
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCWSYX.us.png",ABC Philadelphia
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83705
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCWABC.us.png",ABC New York
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83706
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCChicago.png",ABC Chicago
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83707
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCDurham.png",ABC Durham
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83708
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCHouston.png",ABC Houston
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83709
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCFresno.png",ABC Fresno
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83710
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABC_Logo.png",ABC Connecticut
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83711
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCWJLA.us.png",ABC Washington
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83712
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCAtlanta.png",ABC Atlanta
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83713
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCBoston.png",ABC Boston
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83714
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCDetroit.png",ABC Detroit
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83715
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABC_Logo.png",ABC Pittsburgh
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83716
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABC_Logo.png",ABC Dallas
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83717
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCSeattle.png",ABC Seattle
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83718
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABC_Logo.png",ABC Portland
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83719
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCDenver.png",ABC Denver
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83720
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCSanDiego.png",ABC San Diego
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83721
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCNashville.png",ABC Nashville
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83722
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABC_Logo.png",ABC Orlando
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83723
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCMiami.png",ABC Miami
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83724
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABC_Logo.png",ABC Charlotte
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83725
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABC_Logo.png",ABC Sacramento
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83726
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCCleveland.png",ABC Cleveland
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83727
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCIndianapolis.png",ABC Indianapolis
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83728
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCTampaBay.png",ABC Tampa Bay
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83729
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABC7WLS.us.png",ABC Baltimore
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83730
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABC_Logo.png",ABC Saint Paul
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83731
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCStLouis.png",ABC St Louis
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83732
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCSaltlakecity.png",ABC Salt lake city
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83733
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABCSanAntonio.png",ABC San Antonio
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83734
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ABC_Logo.png",ABC Kansas City
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83735
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",ABC Milwaukee
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83736
+#EXTINF:-1 group-title="USA Regionals" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",Orlando
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83737
+#EXTINF:-1 group-title="USA Entertainment",===== USA Entertainment =====
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83764
 #EXTINF:-1 group-title="USA Movies",===== USA MOvies =====
 http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83911
 #EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/ActionMax.us.png",Action Max
@@ -83,31 +1785,11 @@ http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83942
 http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83945
 #EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/",Showtime 2
 http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83953
+#EXTINF:-1 group-title="USA Documentaries",===== USA Documentaries =====
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83738
 #EXTINF:-1 group-title="USA Kids",===== USA Kids =====
 http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83854
 #EXTINF:-1 group-title="USA Kids" tvg-logo="http://www.vodkom.com:25461/images/logo_usa/Nick_Logo.png",Nick Toons
 http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83868
-
-#EXTM3U
-#EXTINF:-1 group-title="Khmer TV"tvg-logo="http://www.seatv.com.kh/images/logo2.png",SEA TV HD
-http://96.9.77.79:1935/live/SEATV/playlist.m3u8
-#EXTINF:-1 group-title="Khmer TV"tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV.png",RHM_HDTV
-http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Khmer TV"tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/HM-HDTV.png",RM_HDTV
-http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://3.bp.blogspot.com/-FeYI3mB2l-g/V0Sc6DomTvI/AAAAAAAAAKE/wY_SSZ5ZhogT-5QrBQxYUw9baoa0XREkQCLcB/w115-h115-c/etv.jpg",EATV
-http://203.176.130.123:8989/live/etv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1594643150&mtvhash=Va4I7_Im6ngDDbLpF7hLTyzsdizyV9BgUkAUgLS6tk8=
-#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://yt3.ggpht.com/a/AATXAJxh2yJoUhqi_AzCnBezRiKvam592ozJX2DKCnMH=s900-c-k-c0xffffffff-no-rj-mo",TV5
-http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
-#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://raw.githubusercontent.com/nireatrei/TV-Logo/master/logo-514180-1.png",Bayon TV
-http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/bayon%20TV%20news.png",Bayon TV News
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/fresh%20news.png",Fresh News
-http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/PNN%20Logo.png",PNN TV
-http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/CTV%209.png",CTV9
-http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Khmer TV"tvg-logo="https://github.com/nireatrei/TV-Logo/raw/master/TVK.npg.jpg",TVK
-http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="USA Music",===== USA Music =====
+http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/83876
