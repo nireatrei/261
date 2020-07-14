@@ -23,6 +23,13 @@ http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8?checkedby:iptvca
 http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8?checkedby:iptvcat.com
 
 #EXTM3U
+#EXTINF:-1 group-title="LG TV International"https://pmcdeadline2.files.wordpress.com/2018/01/national-geographic-channel-logo-featured.jpg?w=621&h=383&crop=1",National Geographic
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/842.m3u8?checkedby:iptvcat.com
+
+
+
+
+#EXTM3U
 #EXTINF:-1 group-title="EU SWITZERLAND",CH: RSI LA 2 HD
 http://www.pandar.tv:25461/VAaRqRooysrdaMt/wBKcpRDretvVJdD/57595
 #EXTINF:-1 group-title="EU SWITZERLAND",CH: RSI LA 1 HD
