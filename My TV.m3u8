@@ -27,6 +27,8 @@ http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8?checkedby:iptvca
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/842.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="LG TV International"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8Kn61kwufbEt7pnXxHiQyekDfWiD9gBEB3g&usqp=CAU"CNBC Europe
 https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="LG TV International"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTUqlUwJiGOpPZugyIaLzmvso5ojo-_YvQ8Q&usqp=CAU",Bloomberg TV Europe
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8?checkedby:iptvcat.com
 
 
 
