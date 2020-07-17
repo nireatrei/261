@@ -54,344 +54,175 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8?chec
 #EXTINF:-1 group-title="LG TV International",RT UK (Russia)
 https://rt-uk.secure.footprint.net/1106.m3u8?checkedby:iptvcat.com
 
-#EXTM3U
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Atlanta
+#EXTINF:-1,VIP US: ABC Atlanta
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22143
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Boston
+#EXTINF:-1,VIP US: ABC Boston
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22141
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Milwaukee
+#EXTINF:-1,VIP US: ABC Milwaukee
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22126
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Nashville
+#EXTINF:-1,VIP US: ABC Nashville
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22125
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC New York
+#EXTINF:-1,VIP US: ABC New York
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22124
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Orlando
+#EXTINF:-1,VIP US: ABC Orlando
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22123
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Philadelphia
+#EXTINF:-1,VIP US: ABC Philadelphia
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22122
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Phoenix
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22121
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Pittsburgh
+#EXTINF:-1,VIP US: ABC Pittsburgh
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22120
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Portland
+#EXTINF:-1,VIP US: ABC Portland
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22119
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Sacramento
+#EXTINF:-1,VIP US: ABC Sacramento
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22118
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Saint Paul
+#EXTINF:-1,VIP US: ABC Saint Paul
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22117
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Salt lake city
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22116
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC San Antonio
+#EXTINF:-1,VIP US: ABC San Antonio
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22115
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC San Diego
+#EXTINF:-1,VIP US: ABC San Diego
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22114
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC San Francisco
+#EXTINF:-1,VIP US: ABC San Francisco
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22113
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Seattle
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22112
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC St Louis
+#EXTINF:-1,VIP US: ABC St Louis
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22111
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Washington
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22109
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: CBS Atlanta
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22108
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: CBS Boston
+#EXTINF:-1,VIP US: CBS Boston
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22106
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: CBS Charlotte
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22105
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: CBS Cleveland
+#EXTINF:-1,VIP US: CBS Cleveland
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22103
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: CBS Detroit
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22099
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: CBS Greensboro
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22098
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: CBS Hartford
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22097
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: FOX Austin
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22029
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: FOX Belmont
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22027
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: FOX Buffalo
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22025
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: FOX Chicago
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22023
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: FOX Columbus
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22018
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: FOX Deportes HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22015
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: FOX Hartford
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22012
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: FOX Los Angeles
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22007
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: FOX Milwaukee
+#EXTINF:-1,VIP US: FOX Milwaukee
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22005
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: FOX Phoenix
+#EXTINF:-1,VIP US: FOX Phoenix
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/21996
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NBC Boston
+#EXTINF:-1,VIP US: NBC Boston
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22072
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NBC Kansas City
+#EXTINF:-1,VIP US: NBC Kansas City
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22058
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NBC Los Angeles
+#EXTINF:-1,VIP US: NBC Los Angeles
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22057
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NBC San Francisco
+#EXTINF:-1,VIP US: NBC San Francisco
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22041
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NBC San Diego
+#EXTINF:-1,VIP US: NBC San Diego
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22042
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NBC Seattle
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22040
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NBC Sports Bay Area
+#EXTINF:-1,VIP US: NBC Sports Bay Area
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22039
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NBC St Louis
+#EXTINF:-1,VIP US: NBC St Louis
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22038
-#EXTINF:-1 group-title="Live: USA",VIP US: 7 WWSB FL Sarasota HD
+#EXTINF:-1,VIP US: 7 WWSB FL Sarasota HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10719
-#EXTINF:-1 group-title="Live: USA",VIP US: A&E HD
+#EXTINF:-1,VIP US: A&E HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10699
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC Action News
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10652
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ABC HD
+#EXTINF:-1,VIP US: ABC HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10651
-#EXTINF:-1 group-title="Live: USA",VIP US: ABC News
+#EXTINF:-1,VIP US: ABC News
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10653
-#EXTINF:-1 group-title="Live: USA",VIP US: Adult Swim
+#EXTINF:-1,VIP US: Adult Swim
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10648
-#EXTINF:-1 group-title="Live: USA",VIP US: TVG HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/27809
-#EXTINF:-1 group-title="Live: USA",VIP US: AHC
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10647
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: AL JAZEERA HD
+#EXTINF:-1,VIP US: AL JAZEERA HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10698
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ANIMAL PLANET
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10768
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Antenna Tv
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22924
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: BBC America
+#EXTINF:-1,VIP US: BBC America
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10697
-#EXTINF:-1 group-title="Live: USA",VIP US: BEIN SPORTS US
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10696
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: BEIN SPORTS Connect FHD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/30738
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: BEIN SPORTS LA LIGA FHD
+#EXTINF:-1,VIP US: BEIN SPORTS LA LIGA FHD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/30991
-#EXTINF:-1 group-title="Live: USA",VIP US: BET Her
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22922
-#EXTINF:-1 group-title="Live: USA",VIP US: Buzzer
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22920
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinemax Thrillermax
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/30734
-#EXTINF:-1 group-title="Live: USA",VIP US: CMT HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10718
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: COMEDY CENTRAL
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10692
-#EXTINF:-1 group-title="Live: USA",VIP US: Cooking Channel
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22917
-#EXTINF:-1 group-title="Live: USA",VIP US: Cowboy Channel
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22915
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Crime & Investigation HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10691
-#EXTINF:-1 group-title="Live: USA",VIP US: DEPORTES HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10671
-#EXTINF:-1 group-title="Live: USA",VIP US: Discovery Family
+#EXTINF:-1,VIP US: Discovery Family
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22914
-#EXTINF:-1 group-title="Live: USA",VIP US: Discovery Life HD
+#EXTINF:-1,VIP US: Discovery Life HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22912
-#EXTINF:-1 group-title="Live: USA",VIP US: Disney HD
+#EXTINF:-1,VIP US: Disney HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22911
-#EXTINF:-1 group-title="Live: USA",VIP US: Disney XD HD
+#EXTINF:-1,VIP US: Disney XD HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22910
-#EXTINF:-1 group-title="Live: USA",VIP US: DKN HD
+#EXTINF:-1,VIP US: DKN HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22899
-#EXTINF:-1 group-title="Live: USA",VIP US: Epix
+#EXTINF:-1,VIP US: Epix
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22908
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ESPN
+#EXTINF:-1,VIP US: ESPN
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10774
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ESPN NEWS
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10771
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: CW HD
+#EXTINF:-1,VIP US: CW HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10748
-#EXTINF:-1 group-title="Live: USA",VIP US: Fox Sports Carolina HD
+#EXTINF:-1,VIP US: Fox Sports Carolina HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/38077
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Fox Sports Indianna HD
+#EXTINF:-1,VIP US: Fox Sports Indianna HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/25877
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Fox Sports Tennessee HD
+#EXTINF:-1,VIP US: Fox Sports Tennessee HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/25860
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Fox Sports West HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/25861
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Fox Sports West Prime Ticket HD
+#EXTINF:-1,VIP US: Fox Sports West Prime Ticket HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/25866
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Fox Sports Wisconsin HD
+#EXTINF:-1,VIP US: Fox Sports Wisconsin HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/25870
-#EXTINF:-1 group-title="Live: USA",VIP US: Fuse
+#EXTINF:-1,VIP US: Fuse
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22902
-#EXTINF:-1 group-title="Live: USA",VIP US: Fusion
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22901
-#EXTINF:-1 group-title="Live: USA",VIP US: Fubo Sports Network HD
+#EXTINF:-1,VIP US: Fubo Sports Network HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/40250
-#EXTINF:-1 group-title="Live: USA",VIP US: FreeRom HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/5234
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: FX HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10728
-#EXTINF:-1 group-title="Live: USA",VIP US: FX Movie
+#EXTINF:-1,VIP US: FX Movie
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22905
-#EXTINF:-1 group-title="Live: USA",VIP US: FXX
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22904
-#EXTINF:-1 group-title="Live: USA",VIP US: FYI
+#EXTINF:-1,VIP US: FYI
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22903
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: GOL TV HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/23200
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Grit
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22900
-#EXTINF:-1 group-title="Live: USA",VIP US: GSN TV
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10675
-#EXTINF:-1 group-title="Live: USA",VIP US: Hallmark Drama
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22885
-#EXTINF:-1 group-title="Live: USA",VIP US: Hallmark Movies & Mysteries
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22884
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: HBO COMEDY HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10731
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: HBO Family HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10674
-#EXTINF:-1 group-title="Live: USA",VIP US: HBO HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10732
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: HBO SIGNATURE
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10733
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Heroes & Icons HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22895
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: HGTV HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10668
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: HISTORY HD
+#EXTINF:-1,VIP US: HISTORY HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10762
-#EXTINF:-1 group-title="Live: USA",VIP US: IFC HD
+#EXTINF:-1,VIP US: IFC HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22887
-#EXTINF:-1 group-title="Live: USA",VIP US: Independent Film Channel
+#EXTINF:-1,VIP US: Independent Film Channel
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22878
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: LIFE TIME
+#EXTINF:-1,VIP US: LIFE TIME
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10736
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: MTV HD
+#EXTINF:-1,VIP US: MTV HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10757
-#EXTINF:-1 group-title="Live: USA",VIP US: My Jam TV HD
+#EXTINF:-1,VIP US: My Jam TV HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22893
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NASA TV HD
+#EXTINF:-1,VIP US: NASA TV HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10649
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NBA TV
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10729
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NBC HD
+#EXTINF:-1,VIP US: NBC HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/9917
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NBCSN PHILADELPHIA HD
+#EXTINF:-1,VIP US: NBCSN PHILADELPHIA HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/23806
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NBCSN BAY AREA HD
+#EXTINF:-1,VIP US: NBCSN BAY AREA HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/25855
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NESN HD
+#EXTINF:-1,VIP US: NESN HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/16367
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NESN Plus
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22034
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NFL Network HD
+#EXTINF:-1,VIP US: NFL Network HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10776
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NFL RedZone (Live on GameDay)
+#EXTINF:-1,VIP US: NFL RedZone (Live on GameDay)
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10775
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: NICK HD (kids)
+#EXTINF:-1,VIP US: NICK HD (kids)
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10663
-#EXTINF:-1 group-title="Live: USA",VIP US: ONE AMERICA NETWORK
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22873
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: ACC HD
+#EXTINF:-1,VIP US: ACC HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22871
-#EXTINF:-1 group-title="Live: USA",VIP US: Pursuit Channel
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22857
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Showtime Pacific HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10740
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Showtime Beyond
+#EXTINF:-1,VIP US: Showtime Beyond
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22864
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Showtime Extreme HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10660
-#EXTINF:-1 group-title="Live: USA",VIP US: Sundance Tv
+#EXTINF:-1,VIP US: Sundance Tv
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22860
-#EXTINF:-1 group-title="Live: USA",VIP US: SYFY HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10684
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: TBS HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10750
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: TCM
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22858
-#EXTINF:-1 group-title="Live: USA",VIP US: Teen Nick HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10678
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: TENNIS HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10658
-#EXTINF:-1 group-title="Live: USA",VIP US: Telemundo New York
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/37954
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: The Blaze
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22880
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: The Sportsman Channel HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22881
-#EXTINF:-1 group-title="Live: USA",VIP US: The Weather Channel
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10709
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: TLC
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10764
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: TNT HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10751
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: TRAVEL CHANNEL
+#EXTINF:-1,VIP US: TRAVEL CHANNEL
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10765
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: TRU TV
+#EXTINF:-1,VIP US: TRU TV
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10657
-#EXTINF:-1 group-title="Live: USA",VIP US: TRUE MOVIES
+#EXTINF:-1,VIP US: TRUE MOVIES
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10683
-#EXTINF:-1 group-title="Live: USA",VIP US: TV Land
+#EXTINF:-1,VIP US: TV Land
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22856
-#EXTINF:-1 group-title="Live: USA",VIP US: TBN
+#EXTINF:-1,VIP US: TBN
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/39881
-#EXTINF:-1 group-title="Live: USA",VIP US: Universal Kids
+#EXTINF:-1,VIP US: Universal Kids
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22855
-#EXTINF:-1 group-title="Live: USA",VIP US: Univision
+#EXTINF:-1,VIP US: Univision
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/23804
-#EXTINF:-1 group-title="Live: USA",VIP US: Univision New York
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/40113
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: USA Network
+#EXTINF:-1,VIP US: USA Network
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10753
-#EXTINF:-1 group-title="Live: USA",VIP US: VH1
+#EXTINF:-1,VIP US: VH1
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/10154
-#EXTINF:-1 group-title="Live: USA",VIP US: Viceland HD
+#EXTINF:-1,VIP US: Viceland HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22851
-#EXTINF:-1 group-title="Live: USA",VIP US: We Tv
+#EXTINF:-1,VIP US: We Tv
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22849
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: CHEDDAR HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22854
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: Westerns 4 U
+#EXTINF:-1,VIP US: Westerns 4 U
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22848
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: WGN America
+#EXTINF:-1,VIP US: WGN America
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/22850
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 13
+#EXTINF:-1,VIP US: Cinema PPV 13
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34846
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 14
+#EXTINF:-1,VIP US: Cinema PPV 14
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34847
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 15
+#EXTINF:-1,VIP US: Cinema PPV 15
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34848
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 16
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34849
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 17
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34850
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 18
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34851
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 19
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34852
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 20
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34853
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 21
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34854
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 22
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34855
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 23
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34856
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 24
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34857
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 25
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34858
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 26
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34859
-#EXTINF:-1 group-title="Live: USA",VIP US: Cinema PPV 29
+#EXTINF:-1,VIP US: Cinema PPV 29
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/34862
-#EXTINF:-1 group-title="Live: USA",VIP US: EMPIRE CINEMA 007 HD
+#EXTINF:-1,VIP US: EMPIRE CINEMA 007 HD
 http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/40251
-#EXTINF:-1 group-title="Live: USA",VIP US: EMPIRE CINEMA RELIGION HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/40266
-#EXTINF:-1 group-title="Live: USA",VIP US: PPV 5 Live Event HD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/30976
-#EXTINF:-1 group-title="Live: USA" tvg-logo="[",VIP US: UFC Fight Pass FHD
-http://dragoniptv.club:8080/e0vTRbwUvv/9HyMe3EMQd/27971
